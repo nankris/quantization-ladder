@@ -1,0 +1,27 @@
+{
+  "BF16": {
+    "items": 150,
+    "correct": 60,
+    "predictions_sha256": "6245d1a2ded242358457058a4221c1b23e8eb39dbff6f644b162d3db6c8f8795"
+  },
+  "Q8_0": {
+    "items": 150,
+    "correct": 64,
+    "predictions_sha256": "01ce60d6645e147082fc686eb6ba8243d0e781654d20a29b2f48039bdcfdeabb"
+  },
+  "Q4_K_M": {
+    "items": 150,
+    "correct": 76,
+    "predictions_sha256": "e18f929ae69a123ce38861e98215b800f7ae4b04e596cf80126e8953e7280ca4"
+  },
+  "Q3_K_M": {
+    "items": 150,
+    "correct": 64,
+    "predictions_sha256": "db678205025c3179df7f3da71a94c6d69178c13fb07f126fd732a212720bd215"
+  },
+  "Q2_K": {
+    "items": 150,
+    "correct": 38,
+    "predictions_sha256": "d54db58eb1200febd541ea960a513e831bdbd095b83f9ec2a14455b3245d7995"
+  }
+}

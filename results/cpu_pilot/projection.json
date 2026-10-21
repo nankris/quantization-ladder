@@ -1,0 +1,10 @@
+{
+  "reason": "CPU BF16 pilot too slow",
+  "n": 1,
+  "prompt_tokens": 77,
+  "first_item_seconds": 79.10515644899988,
+  "baseline_150_projected_minutes": 197.7628911224997,
+  "cpu_model": "Qwen3-0.6B-BF16",
+  "cpu_threads": 2,
+  "change": "All five full-format measurements will use L4 GPU; CPU pilot excluded from final paired comparison."
+}

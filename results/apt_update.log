@@ -1,0 +1,11 @@
+sudo: unable to resolve host (none): Name or service not known
+Get:1 http://deb.debian.org/debian trixie InRelease [140 kB]
+Get:2 http://deb.debian.org/debian trixie-updates InRelease [47.3 kB]
+Get:3 http://deb.debian.org/debian-security trixie-security InRelease [43.4 kB]
+Get:4 https://deb.nodesource.com/node_22.x nodistro InRelease [12.1 kB]
+Get:5 http://deb.debian.org/debian trixie/main arm64 Packages [9614 kB]
+Get:6 https://deb.nodesource.com/node_22.x nodistro/main arm64 Packages [12.5 kB]
+Get:7 http://deb.debian.org/debian trixie-updates/main arm64 Packages [4424 B]
+Get:8 http://deb.debian.org/debian-security trixie-security/main arm64 Packages [269 kB]
+Fetched 10.1 MB in 3s (3885 kB/s)
+Reading package lists...

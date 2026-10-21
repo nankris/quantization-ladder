@@ -1,0 +1,9 @@
+{
+  "platform": "Linux-6.12.110+-aarch64-with-glibc2.41",
+  "machine": "aarch64",
+  "python": "3.12.15",
+  "cpuinfo": "processor\t: 0\nBogoMIPS\t: 2000.00\nFeatures\t: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 asimddp sha512 asimdfhm dit uscat ilrcpc flagm sb dcpodp flagm2 frint i8mm bf16 dgh rng bti\nCPU implementer\t: 0x41\nCPU architecture: 8\nCPU variant\t: 0x0\nCPU part\t: 0xd4f\nCPU revision\t: 1\n\nprocessor\t: 1\nBogoMIPS\t: 2000.00\nFeatures\t: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 asimddp sha512 asimdfhm dit uscat ilrcpc flagm sb dcpodp flagm2 frint i8mm bf16 dgh rng bti\nCPU implementer\t: 0x41\nCPU architecture: 8\nCPU variant\t: 0x0\nCPU part\t: 0xd4f\nCPU revision\t: 1\n\n",
+  "models_manifest_sha256": "eda5974ebba9bb62eac52a85c8f2f551589a06bb7a28b6a2896e599d678064c9",
+  "items_sha256": "803e9b8c3e5661df98c702a9754a2198efc448ef0e841eb966af3d3eecb5531d",
+  "environment_recorded_utc": "2026-10-16T13:10:24.007784+00:00"
+}

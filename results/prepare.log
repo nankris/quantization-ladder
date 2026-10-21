@@ -1,0 +1,15 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Generating train split:   0%|          | 0/2251 [00:00<?, ? examples/s]Generating train split:  44%|████▍     | 1000/2251 [00:00<00:00, 1932.08 examples/s]Generating train split: 100%|██████████| 2251/2251 [00:00<00:00, 4171.73 examples/s]
+Generating test split:   0%|          | 0/2376 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 2376/2376 [00:00<00:00, 90414.49 examples/s]
+Generating validation split:   0%|          | 0/570 [00:00<?, ? examples/s]Generating validation split: 100%|██████████| 570/570 [00:00<00:00, 28517.36 examples/s]
+Frozen 150 items
+Downloading Qwen3-0.6B-BF16.gguf
+Verified BF16
+Downloading Qwen3-0.6B-Q8_0.gguf
+Verified Q8_0
+Downloading Qwen3-0.6B-Q4_K_M.gguf
+Verified Q4_K_M
+Downloading Qwen3-0.6B-Q3_K_M.gguf
+Verified Q3_K_M
+Downloading Qwen3-0.6B-Q2_K.gguf
+Verified Q2_K

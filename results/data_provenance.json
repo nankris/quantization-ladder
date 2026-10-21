@@ -1,0 +1,9 @@
+{
+  "dataset": "allenai/ai2_arc",
+  "config": "ARC-Easy",
+  "split": "test",
+  "fingerprint": "b019ca21ba59e1f3",
+  "eligible": 2365,
+  "seed": 122,
+  "dataset_revision": "210d026faf9955653af8916fad021475a3f00453"
+}

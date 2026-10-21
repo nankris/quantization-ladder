@@ -1,0 +1,4 @@
+Current balance: 163.76 compute units
+Usage rate: 0.00/hr
+Active assignments: 0
+Previous experiment allocation cost: 0.19 CU (balance difference)

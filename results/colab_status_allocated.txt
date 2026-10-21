@@ -1,0 +1,2 @@
+[tig122-quant-ladder] gpu-l4-s-kkb-ass1a0-1wrr407l1f3xv | Hardware: L4 | Shape: Standard | Variant: GPU | Status: IDLE
+  Last Execution: scripts/remote_poll.py at 2026-10-16 13:29:36

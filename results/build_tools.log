@@ -1,0 +1,11 @@
+Collecting cmake
+  Using cached cmake-4.4.4-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.metadata (7.0 kB)
+Collecting ninja
+  Using cached ninja-1.13.2-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.metadata (5.4 kB)
+Using cached cmake-4.4.4-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl (30.3 MB)
+Using cached ninja-1.13.2-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl (177 kB)
+Installing collected packages: ninja, cmake
+Successfully installed cmake-4.4.4 ninja-1.13.2
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: python3 -m pip install --upgrade pip

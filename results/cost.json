@@ -1,0 +1,13 @@
+{
+  "initial_balance_cu": 163.95,
+  "resume_balance_cu": 163.76,
+  "final_balance_cu": 163.67,
+  "total_cu": 0.28,
+  "previous_allocation_cu": 0.19,
+  "resumed_allocation_cu": 0.09,
+  "account_readout_precision_cu": 0.01,
+  "gpu": "NVIDIA L4",
+  "usage_rate_cu_per_hour": 1.54,
+  "session": "tig122-quant-ladder",
+  "stopped": true
+}

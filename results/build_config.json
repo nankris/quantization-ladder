@@ -1,0 +1,13 @@
+{
+  "cmake_cache_selected": [
+    "CMAKE_BUILD_TYPE:STRING=Release",
+    "CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++",
+    "CMAKE_CXX_FLAGS:STRING=",
+    "CMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc",
+    "CMAKE_C_FLAGS:STRING=",
+    "GGML_BLAS:BOOL=OFF",
+    "GGML_CPU_ARM_ARCH:STRING=",
+    "GGML_NATIVE:BOOL=ON",
+    "GGML_OPENMP:BOOL=ON"
+  ]
+}
