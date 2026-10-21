@@ -1,0 +1,7 @@
+{
+  "dataset": "allenai/ai2_arc",
+  "revision": "210d026faf9955653af8916fad021475a3f00453",
+  "pilot_n": 32,
+  "fresh_available": 4972,
+  "excluded_earlier": 150
+}

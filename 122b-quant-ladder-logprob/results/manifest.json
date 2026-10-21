@@ -1,0 +1,61 @@
+{
+  "repo": "unsloth/Qwen3-0.6B-GGUF",
+  "revision": "50968a4468ef4233ed78cd7c3de230dd1d61a56b",
+  "files": [
+    {
+      "format": "BF16",
+      "file": "Qwen3-0.6B-BF16.gguf",
+      "bytes": 1198182848,
+      "lfs": {
+        "size": 1198182848,
+        "sha256": "f9c9f1d3c1e21755b82d4e165f88dbbbd4355646d632fb5d6cef7c66ed4ee04e",
+        "pointer_size": 135
+      },
+      "verified_sha256": "f9c9f1d3c1e21755b82d4e165f88dbbbd4355646d632fb5d6cef7c66ed4ee04e"
+    },
+    {
+      "format": "Q8_0",
+      "file": "Qwen3-0.6B-Q8_0.gguf",
+      "bytes": 639447744,
+      "lfs": {
+        "size": 639447744,
+        "sha256": "e150ed544dfe6016930c026a93913a5e3184181ebfe6ab2223ae01dd0491784c",
+        "pointer_size": 134
+      },
+      "verified_sha256": "e150ed544dfe6016930c026a93913a5e3184181ebfe6ab2223ae01dd0491784c"
+    },
+    {
+      "format": "Q4_K_M",
+      "file": "Qwen3-0.6B-Q4_K_M.gguf",
+      "bytes": 396705472,
+      "lfs": {
+        "size": 396705472,
+        "sha256": "ac2d97712095a558e31573f62f466a3f9d93990898b0ec79d7c974c1780d524a",
+        "pointer_size": 134
+      },
+      "verified_sha256": "ac2d97712095a558e31573f62f466a3f9d93990898b0ec79d7c974c1780d524a"
+    },
+    {
+      "format": "Q3_K_M",
+      "file": "Qwen3-0.6B-Q3_K_M.gguf",
+      "bytes": 347127488,
+      "lfs": {
+        "size": 347127488,
+        "sha256": "30bb9f9222cf58c076277879881a24e7127a10be32076d76d8c70f8defc01f5d",
+        "pointer_size": 134
+      },
+      "verified_sha256": "30bb9f9222cf58c076277879881a24e7127a10be32076d76d8c70f8defc01f5d"
+    },
+    {
+      "format": "Q2_K",
+      "file": "Qwen3-0.6B-Q2_K.gguf",
+      "bytes": 296238784,
+      "lfs": {
+        "size": 296238784,
+        "sha256": "26d035ea15c4a2853e8d20ffc56a76f6164e17dbb6c9e532c5766700c404519d",
+        "pointer_size": 134
+      },
+      "verified_sha256": "26d035ea15c4a2853e8d20ffc56a76f6164e17dbb6c9e532c5766700c404519d"
+    }
+  ]
+}

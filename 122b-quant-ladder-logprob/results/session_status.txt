@@ -1,0 +1,2 @@
+[b10-122b] gpu-l4-s-kkb-ass1a0-34ynxpsg4vyk4 | Hardware: L4 | Shape: Standard | Variant: GPU | Status: IDLE
+  Last Execution: scripts/poll.py at 2026-10-19 21:59:43

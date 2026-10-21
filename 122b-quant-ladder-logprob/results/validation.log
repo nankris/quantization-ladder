@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/content/b10-122b/scripts/validate_runtime.py", line 23, in <module>
+    results['prefix_full_max_abs']=float(np.max(np.abs(incremental-full))); assert np.allclose(incremental,full,atol=.002)
+                                                                                   ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+Traceback (most recent call last):
+  File "/content/b10-122b/scripts/validate_runtime.py", line 7, in <module>
+    subprocess.run([sys.executable,__file__,'--child'],env=env,check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/usr/bin/python3', '/content/b10-122b/scripts/validate_runtime.py', '--child']' returned non-zero exit status 1.
+{'False': [31.094398498535156, 27.04097557067871, 28.659656524658203, 29.118316650390625], 'True': [31.07723617553711, 27.041603088378906, 28.655672073364258, 29.12375259399414], 'prefix_full_max_abs': 0.11384463310241699, 'prefix_full_letters_max_abs': 0.026978015899658203, 'prefix_full_argmax_same': True, 'old_vs_new_max_abs': 0.038573265075683594, 'old_vs_new_letters_max_abs': 0.017162322998046875, 'same_letter_argmax': True, 'pilot_id': 'Mercury_7038535'}

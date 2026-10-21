@@ -1,0 +1,585 @@
+{
+  "n": 4972,
+  "summary": [
+    {
+      "format": "BF16",
+      "n": 4972,
+      "cyclic_correct": 3974,
+      "cyclic_paired_outcomes_vs_BF16": {
+        "both_correct": 3974,
+        "both_wrong": 998,
+        "format_only_correct": 0,
+        "BF16_only_correct": 0
+      },
+      "cyclic_accuracy": 79.92759452936444,
+      "cyclic_ci": [
+        78.80128720836686,
+        81.03378921962992
+      ],
+      "cyclic_delta": 0.0,
+      "cyclic_delta_ci": [
+        0.0,
+        0.0
+      ],
+      "cyclic_minus_unrotated_pp": 40.50683829444892,
+      "cyclic_minus_unrotated_ci": [
+        38.87771520514883,
+        42.15607401448109
+      ],
+      "unrotated_correct": 1960,
+      "unrotated_paired_outcomes_vs_BF16": {
+        "both_correct": 1960,
+        "both_wrong": 3012,
+        "format_only_correct": 0,
+        "BF16_only_correct": 0
+      },
+      "unrotated_accuracy": 39.42075623491553,
+      "unrotated_ci": [
+        38.07320997586484,
+        40.78841512469831
+      ],
+      "unrotated_delta": 0.0,
+      "unrotated_delta_ci": [
+        0.0,
+        0.0
+      ],
+      "text_correct": 2006,
+      "text_paired_outcomes_vs_BF16": {
+        "both_correct": 2006,
+        "both_wrong": 2966,
+        "format_only_correct": 0,
+        "BF16_only_correct": 0
+      },
+      "text_accuracy": 40.345937248592115,
+      "text_ci": [
+        38.978278358809334,
+        41.713596138374896
+      ],
+      "text_delta": 0.0,
+      "text_delta_ci": [
+        0.0,
+        0.0
+      ],
+      "text_minus_unrotated_pp": 0.925181013676589,
+      "text_minus_unrotated_ci": [
+        -0.9654062751407884,
+        2.815768302493966
+      ],
+      "unrotated_counts": {
+        "A": 4174,
+        "D": 471,
+        "B": 243,
+        "C": 84
+      },
+      "rotations_counts": [
+        {
+          "A": 4174,
+          "D": 471,
+          "B": 243,
+          "C": 84
+        },
+        {
+          "A": 4131,
+          "B": 241,
+          "D": 500,
+          "C": 100
+        },
+        {
+          "A": 4132,
+          "D": 517,
+          "B": 229,
+          "C": 94
+        },
+        {
+          "A": 4159,
+          "D": 499,
+          "B": 225,
+          "C": 89
+        }
+      ],
+      "rotation_accuracy": [
+        39.42075623491553,
+        40.647626709573615,
+        41.6130329847144,
+        38.35478680611424
+      ],
+      "cyclic_identity_counts": {
+        "A": 1234,
+        "D": 1197,
+        "B": 1265,
+        "C": 1276
+      },
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "generated_tokens": 0,
+      "evaluated_input_tokens": 3310805
+    },
+    {
+      "format": "Q8_0",
+      "n": 4972,
+      "cyclic_correct": 3955,
+      "cyclic_paired_outcomes_vs_BF16": {
+        "both_correct": 3917,
+        "both_wrong": 960,
+        "format_only_correct": 38,
+        "BF16_only_correct": 57
+      },
+      "cyclic_accuracy": 79.54545454545455,
+      "cyclic_ci": [
+        78.39903459372486,
+        80.65164923572003
+      ],
+      "cyclic_delta": -0.3821399839098954,
+      "cyclic_delta_ci": [
+        -0.7642799678197908,
+        0.0
+      ],
+      "cyclic_minus_unrotated_pp": 39.40064360418343,
+      "cyclic_minus_unrotated_ci": [
+        37.79163314561544,
+        41.00965406275141
+      ],
+      "unrotated_correct": 1996,
+      "unrotated_paired_outcomes_vs_BF16": {
+        "both_correct": 1944,
+        "both_wrong": 2960,
+        "format_only_correct": 52,
+        "BF16_only_correct": 16
+      },
+      "unrotated_accuracy": 40.14481094127112,
+      "unrotated_ci": [
+        38.777152051488336,
+        41.5124698310539
+      ],
+      "unrotated_delta": 0.7240547063555913,
+      "unrotated_delta_ci": [
+        0.4022526146419952,
+        1.046359613837446
+      ],
+      "text_correct": 1988,
+      "text_paired_outcomes_vs_BF16": {
+        "both_correct": 1964,
+        "both_wrong": 2942,
+        "format_only_correct": 24,
+        "BF16_only_correct": 42
+      },
+      "text_accuracy": 39.98390989541432,
+      "text_ci": [
+        38.63636363636363,
+        41.3515687851971
+      ],
+      "text_delta": -0.36202735317779566,
+      "text_delta_ci": [
+        -0.6838294448913919,
+        -0.04022526146419952
+      ],
+      "text_minus_unrotated_pp": -0.16090104585679807,
+      "text_minus_unrotated_ci": [
+        -2.0514883346741755,
+        1.7699115044247788
+      ],
+      "unrotated_counts": {
+        "A": 4128,
+        "D": 489,
+        "B": 264,
+        "C": 91
+      },
+      "rotations_counts": [
+        {
+          "A": 4128,
+          "D": 489,
+          "B": 264,
+          "C": 91
+        },
+        {
+          "A": 4072,
+          "B": 277,
+          "D": 523,
+          "C": 100
+        },
+        {
+          "A": 4102,
+          "B": 253,
+          "D": 523,
+          "C": 94
+        },
+        {
+          "A": 4098,
+          "D": 516,
+          "B": 267,
+          "C": 91
+        }
+      ],
+      "rotation_accuracy": [
+        40.14481094127112,
+        41.733708769107,
+        42.07562349155269,
+        39.42075623491553
+      ],
+      "cyclic_identity_counts": {
+        "A": 1248,
+        "D": 1189,
+        "B": 1261,
+        "C": 1274
+      },
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "generated_tokens": 0,
+      "evaluated_input_tokens": 3310805
+    },
+    {
+      "format": "Q4_K_M",
+      "n": 4972,
+      "cyclic_correct": 3873,
+      "cyclic_paired_outcomes_vs_BF16": {
+        "both_correct": 3731,
+        "both_wrong": 856,
+        "format_only_correct": 142,
+        "BF16_only_correct": 243
+      },
+      "cyclic_accuracy": 77.89621882542237,
+      "cyclic_ci": [
+        76.72968624296058,
+        79.02252614641995
+      ],
+      "cyclic_delta": -2.0313757039420755,
+      "cyclic_delta_ci": [
+        -2.795655671761866,
+        -1.246983105390185
+      ],
+      "cyclic_minus_unrotated_pp": 28.962188254223655,
+      "cyclic_minus_unrotated_ci": [
+        27.39340305711987,
+        30.510860820595333
+      ],
+      "unrotated_correct": 2433,
+      "unrotated_paired_outcomes_vs_BF16": {
+        "both_correct": 1898,
+        "both_wrong": 2477,
+        "format_only_correct": 535,
+        "BF16_only_correct": 62
+      },
+      "unrotated_accuracy": 48.93403057119871,
+      "unrotated_ci": [
+        47.52614641995173,
+        50.2815768302494
+      ],
+      "unrotated_delta": 9.513274336283185,
+      "unrotated_delta_ci": [
+        8.588093322606596,
+        10.438455349959774
+      ],
+      "text_correct": 1824,
+      "text_paired_outcomes_vs_BF16": {
+        "both_correct": 1696,
+        "both_wrong": 2838,
+        "format_only_correct": 128,
+        "BF16_only_correct": 310
+      },
+      "text_accuracy": 36.68543845534996,
+      "text_ci": [
+        35.35800482703137,
+        37.99275945293644
+      ],
+      "text_delta": -3.660498793242156,
+      "text_delta_ci": [
+        -4.485116653258246,
+        -2.8358809332260657
+      ],
+      "text_minus_unrotated_pp": -12.248592115848753,
+      "text_minus_unrotated_ci": [
+        -14.11906677393403,
+        -10.358004827031376
+      ],
+      "unrotated_counts": {
+        "A": 3447,
+        "D": 814,
+        "B": 546,
+        "C": 165
+      },
+      "rotations_counts": [
+        {
+          "A": 3447,
+          "D": 814,
+          "B": 546,
+          "C": 165
+        },
+        {
+          "A": 3395,
+          "B": 544,
+          "D": 868,
+          "C": 165
+        },
+        {
+          "A": 3464,
+          "D": 872,
+          "B": 462,
+          "C": 174
+        },
+        {
+          "A": 3384,
+          "D": 865,
+          "B": 540,
+          "C": 183
+        }
+      ],
+      "rotation_accuracy": [
+        48.93403057119871,
+        50.18101367658889,
+        50.120675784392596,
+        48.35076427996782
+      ],
+      "cyclic_identity_counts": {
+        "D": 1184,
+        "A": 1235,
+        "B": 1268,
+        "C": 1285
+      },
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "generated_tokens": 0,
+      "evaluated_input_tokens": 3310805
+    },
+    {
+      "format": "Q3_K_M",
+      "n": 4972,
+      "cyclic_correct": 3696,
+      "cyclic_paired_outcomes_vs_BF16": {
+        "both_correct": 3467,
+        "both_wrong": 769,
+        "format_only_correct": 229,
+        "BF16_only_correct": 507
+      },
+      "cyclic_accuracy": 74.33628318584071,
+      "cyclic_ci": [
+        73.10941271118261,
+        75.54304102976668
+      ],
+      "cyclic_delta": -5.591311343523732,
+      "cyclic_delta_ci": [
+        -6.657280772325021,
+        -4.525341914722445
+      ],
+      "cyclic_minus_unrotated_pp": 30.43041029766693,
+      "cyclic_minus_unrotated_ci": [
+        28.781174577634754,
+        32.07964601769911
+      ],
+      "unrotated_correct": 2183,
+      "unrotated_paired_outcomes_vs_BF16": {
+        "both_correct": 1526,
+        "both_wrong": 2355,
+        "format_only_correct": 657,
+        "BF16_only_correct": 434
+      },
+      "unrotated_accuracy": 43.905872888173775,
+      "unrotated_ci": [
+        42.55832662912309,
+        45.273531777956556
+      ],
+      "unrotated_delta": 4.485116653258246,
+      "unrotated_delta_ci": [
+        3.197908286403862,
+        5.772325020112631
+      ],
+      "text_correct": 1775,
+      "text_paired_outcomes_vs_BF16": {
+        "both_correct": 1548,
+        "both_wrong": 2739,
+        "format_only_correct": 227,
+        "BF16_only_correct": 458
+      },
+      "text_accuracy": 35.69991954947707,
+      "text_ci": [
+        34.372485921158486,
+        37.02735317779566
+      ],
+      "text_delta": -4.646017699115045,
+      "text_delta_ci": [
+        -5.671761866452131,
+        -3.620273531777957
+      ],
+      "text_minus_unrotated_pp": -8.205953338696702,
+      "text_minus_unrotated_ci": [
+        -10.03620273531778,
+        -6.395816572807724
+      ],
+      "unrotated_counts": {
+        "A": 2669,
+        "D": 2050,
+        "B": 106,
+        "C": 147
+      },
+      "rotations_counts": [
+        {
+          "A": 2669,
+          "D": 2050,
+          "B": 106,
+          "C": 147
+        },
+        {
+          "D": 2047,
+          "A": 2655,
+          "B": 112,
+          "C": 158
+        },
+        {
+          "D": 2103,
+          "A": 2601,
+          "B": 115,
+          "C": 153
+        },
+        {
+          "D": 2089,
+          "A": 2622,
+          "C": 150,
+          "B": 111
+        }
+      ],
+      "rotation_accuracy": [
+        43.905872888173775,
+        45.63555913113435,
+        46.50040225261464,
+        44.75060337892196
+      ],
+      "cyclic_identity_counts": {
+        "A": 1259,
+        "D": 1216,
+        "B": 1223,
+        "C": 1274
+      },
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "generated_tokens": 0,
+      "evaluated_input_tokens": 3310805
+    },
+    {
+      "format": "Q2_K",
+      "n": 4972,
+      "cyclic_correct": 1936,
+      "cyclic_paired_outcomes_vs_BF16": {
+        "both_correct": 1682,
+        "both_wrong": 744,
+        "format_only_correct": 254,
+        "BF16_only_correct": 2292
+      },
+      "cyclic_accuracy": 38.93805309734513,
+      "cyclic_ci": [
+        37.570394207562344,
+        40.30571198712792
+      ],
+      "cyclic_delta": -40.98954143201931,
+      "cyclic_delta_ci": [
+        -42.63877715205149,
+        -39.36041834271923
+      ],
+      "cyclic_minus_unrotated_pp": 14.018503620273531,
+      "cyclic_minus_unrotated_ci": [
+        12.228479485116653,
+        15.78841512469831
+      ],
+      "unrotated_correct": 1239,
+      "unrotated_paired_outcomes_vs_BF16": {
+        "both_correct": 1222,
+        "both_wrong": 2995,
+        "format_only_correct": 17,
+        "BF16_only_correct": 738
+      },
+      "unrotated_accuracy": 24.9195494770716,
+      "unrotated_ci": [
+        23.732904263877717,
+        26.146419951729687
+      ],
+      "unrotated_delta": -14.501206757843926,
+      "unrotated_delta_ci": [
+        -15.506838294448913,
+        -13.495575221238937
+      ],
+      "text_correct": 1529,
+      "text_paired_outcomes_vs_BF16": {
+        "both_correct": 1165,
+        "both_wrong": 2602,
+        "format_only_correct": 364,
+        "BF16_only_correct": 841
+      },
+      "text_accuracy": 30.752212389380528,
+      "text_ci": [
+        29.46500402252615,
+        32.03942075623492
+      ],
+      "text_delta": -9.593724859211585,
+      "text_delta_ci": [
+        -10.901045856798069,
+        -8.226065969428802
+      ],
+      "text_minus_unrotated_pp": 5.83266291230893,
+      "text_minus_unrotated_ci": [
+        4.022526146419952,
+        7.622687047465808
+      ],
+      "unrotated_counts": {
+        "A": 4902,
+        "B": 22,
+        "D": 37,
+        "C": 11
+      },
+      "rotations_counts": [
+        {
+          "A": 4902,
+          "B": 22,
+          "D": 37,
+          "C": 11
+        },
+        {
+          "A": 4910,
+          "B": 21,
+          "D": 30,
+          "C": 11
+        },
+        {
+          "A": 4912,
+          "B": 15,
+          "D": 35,
+          "C": 10
+        },
+        {
+          "A": 4911,
+          "B": 15,
+          "D": 36,
+          "C": 10
+        }
+      ],
+      "rotation_accuracy": [
+        24.9195494770716,
+        25.462590506838296,
+        26.146419951729687,
+        23.692679002413517
+      ],
+      "cyclic_identity_counts": {
+        "B": 1225,
+        "A": 1234,
+        "D": 1250,
+        "C": 1263
+      },
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "generated_tokens": 0,
+      "evaluated_input_tokens": 3310805
+    }
+  ],
+  "H1_Q4": "DISPROVEN",
+  "H2_Q2": "PROVEN",
+  "verdict": "DISPROVEN",
+  "gold_counts": {
+    "D": 1163,
+    "B": 1260,
+    "A": 1242,
+    "C": 1307
+  },
+  "split_counts": {
+    "test": 2203,
+    "train": 2203,
+    "validation": 566
+  },
+  "validation": "complete, paired IDs and scoring validated, no earlier/pilot IDs or exact questions"
+}

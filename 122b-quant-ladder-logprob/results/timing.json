@@ -1,0 +1,21 @@
+{
+  "estimated_minutes": 55,
+  "planned_stage_minutes": {
+    "setup": 12,
+    "GPU run": 23,
+    "eval": 8,
+    "writeup": 12
+  },
+  "start_ist": "2026-10-20T03:21:04.457122+05:30",
+  "GPU": "NVIDIA L4",
+  "end_ist": "2026-10-20T04:55:29.953515+05:30",
+  "actual_minutes": 94.42493988333334,
+  "per_stage_minutes": {
+    "setup": 4.617784833333333,
+    "GPU run": 86.73264115,
+    "eval": 0.20175033333333334,
+    "writeup": 2.8727635666666664
+  },
+  "stage_note": "Elapsed wall-clock allocation: setup ends at sample freeze (includes pilot); GPU run ends at last format metadata and includes outage/recovery downtime; eval is local analysis; remaining wall time is publication/writeup. Publication preparation also overlapped GPU evaluation. These are elapsed stage buckets, not exclusive labor measurements.",
+  "confirmatory_gpu_end_utc": "2026-10-19T23:22:25.482681+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "https://arxiv.org/abs/2210.17323",
+  "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+  "checked_utc": "2026-10-19T22:51:00Z",
+  "short_quote": "negligible accuracy degradation",
+  "context": "Abstract claim about GPTQ on its own models. This experiment uses pinned prebuilt Unsloth GGUF artifacts and does not test the GPTQ paper's exact setup.",
+  "rechecked_utc": "2026-10-19T23:25:08.379099+00:00",
+  "verified_abstract_excerpt": "reducing the bitwidth down to 3 or 4 bits per weight, with negligible accuracy degradation relative to the uncompressed baseline"
+}

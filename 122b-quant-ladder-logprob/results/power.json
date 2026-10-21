@@ -1,0 +1,11 @@
+{
+  "pilot_n": 32,
+  "pilot_discordance": 0.09375,
+  "planning_discordance": 0.09375,
+  "needed_for_80_percent": 7361,
+  "fresh_available": 4972,
+  "confirmatory_n": 4972,
+  "approx_power_at_zero_difference": 0.6341728122694731,
+  "margin_for_80_percent_pp": 1.2167131704965866,
+  "frozen_utc": "2026-10-19T21:55:41.524212+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "note": "Per format. Prompt tokens include the repeated text-scoring prefixes; candidate counts include 16 letter scores per item from distributions, plus teacher-forced text tokens. Evaluated input tokens exclude letter candidates, which are scored but not fed. Generated tokens are zero. All counts come from the served model tokenizer.",
+  "formats": [
+    {
+      "format": "BF16",
+      "n": 4972,
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "evaluated_input_tokens": 3310805,
+      "generated_tokens": 0
+    },
+    {
+      "format": "Q8_0",
+      "n": 4972,
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "evaluated_input_tokens": 3310805,
+      "generated_tokens": 0
+    },
+    {
+      "format": "Q4_K_M",
+      "n": 4972,
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "evaluated_input_tokens": 3310805,
+      "generated_tokens": 0
+    },
+    {
+      "format": "Q3_K_M",
+      "n": 4972,
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "evaluated_input_tokens": 3310805,
+      "generated_tokens": 0
+    },
+    {
+      "format": "Q2_K",
+      "n": 4972,
+      "prompt_tokens": 3214587,
+      "candidate_tokens": 175770,
+      "evaluated_input_tokens": 3310805,
+      "generated_tokens": 0
+    }
+  ]
+}

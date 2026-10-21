@@ -1,0 +1,386 @@
+[
+  {
+    "id": "Mercury_7038535",
+    "question": "Which instrument would be used when studying a unit on amphibian anatomy?",
+    "choices": [
+      "a beaker",
+      "a telescope",
+      "a dissecting kit",
+      "a graduated cylinder"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_407066",
+    "question": "Which action causes a chemical change?",
+    "choices": [
+      "leaves dropping from a tree",
+      "leaves blowing in the wind",
+      "leaves being burned in a fire",
+      "leaves being crushed into pieces"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7239540",
+    "question": "Some plant cells are coated in a waxy layer that prevents water loss. This specialization is found in which plant cells?",
+    "choices": [
+      "internal stem cells",
+      "internal root cells",
+      "cells on the plant surface",
+      "cells in the plant reproductive system"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "NYSEDREGENTS_2011_8_42",
+    "question": "Sound will not travel in a",
+    "choices": [
+      "solid",
+      "liquid",
+      "gas",
+      "vacuum"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7092470",
+    "question": "Mount St. Helens was a cone-shaped mountain that formed when molten material reached the surface of Earth and formed layers. Cone-shaped mountains form as a result of which one of these events?",
+    "choices": [
+      "hurricanes",
+      "earthquakes",
+      "volcanic eruptions",
+      "sediment depositions"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_401808",
+    "question": "Who was a leading authority on continental drift in the early 1900s?",
+    "choices": [
+      "Alfred Wegener",
+      "Albert Einstein",
+      "Charles Richter",
+      "Charles Darwin"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "NYSEDREGENTS_2016_4_12",
+    "question": "One example of matter is",
+    "choices": [
+      "sound",
+      "light",
+      "heat",
+      "water"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_403015",
+    "question": "Blood absorbs oxygen in the",
+    "choices": [
+      "heart.",
+      "lungs.",
+      "stomach.",
+      "muscles."
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7221690",
+    "question": "During which change of state do the particles of a substance move from being tightly packed together to having more freedom of movement?",
+    "choices": [
+      "a solid becoming a liquid",
+      "a gas becoming a solid",
+      "a gas becoming a liquid",
+      "a liquid becoming a solid"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_402050",
+    "question": "Which is needed for both boiling and melting to occur?",
+    "choices": [
+      "solids",
+      "gases",
+      "heat",
+      "pressure"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7007805",
+    "question": "Which biological activity occurs in a repeated rhythm?",
+    "choices": [
+      "sneezing",
+      "coughing",
+      "breathing",
+      "blinking"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "NYSEDREGENTS_2011_8_26",
+    "question": "Which term identifies a group of cells that work together to perform a similar function?",
+    "choices": [
+      "molecule",
+      "organ",
+      "organism",
+      "tissue"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "AKDE&ED_2008_4_6",
+    "question": "A person named Leonardo da Vinci studied many things including animals, geology, clouds, and flight. His study of birds helped him design the first parachute. Everything he saw made him ask how and why. Which human quality most likely made this person want to study many different things?",
+    "choices": [
+      "duty",
+      "wisdom",
+      "kindness",
+      "curiosity"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "NYSEDREGENTS_2005_4_2",
+    "question": "Which characteristic is inherited rather than learned?",
+    "choices": [
+      "telling a story",
+      "saluting the flag",
+      "having blue eyes",
+      "riding a bicycle"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_415427",
+    "question": "What do producers need to make food?",
+    "choices": [
+      "sunlight, oxygen, and carbon dioxide",
+      "sunlight, water, and carbon dioxide",
+      "water, oxygen, and carbon dioxide",
+      "water, oxygen, and sunlight"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "MCAS_2005_5_16",
+    "question": "In a city, the daily high and low 16 temperatures for a month are best represented by which of the following?",
+    "choices": [
+      "flow chart",
+      "line graph",
+      "pictograph",
+      "pie chart"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7263603",
+    "question": "Which involves the greatest variety of cell types?",
+    "choices": [
+      "a tissue",
+      "an organ",
+      "an organ system",
+      "an organism"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "LEAP_2001_8_10380",
+    "question": "Which of these best defines the term \"pollutant\"?",
+    "choices": [
+      "anything humans add to the atmosphere and oceans",
+      "any substance that is harmful to the environment",
+      "any substance that is a waste product of industry",
+      "a substance that does not break down over time"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_401138",
+    "question": "Which adaptation allows a fish to get oxygen underwater?",
+    "choices": [
+      "fins",
+      "lungs",
+      "gills",
+      "heart"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_408575",
+    "question": "Angelo wants to know if the volume of water changes when it freezes. He measures the volume of water in its liquid state and then freezes it. Which tool did Angelo most likely use to measure the volume of the water?",
+    "choices": [
+      "a microscope",
+      "a thermometer",
+      "a balance scale",
+      "a graduated cylinder"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "MDSA_2007_5_21",
+    "question": "Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___.",
+    "choices": [
+      "electricity",
+      "medicine",
+      "metals",
+      "water"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_401291",
+    "question": "What is the most likely function of a turtle's hard shell?",
+    "choices": [
+      "convert energy",
+      "increase speed",
+      "provide protection",
+      "allow for reproduction"
+    ],
+    "gold": "C",
+    "split": "train"
+  },
+  {
+    "id": "OHAT_2011_8_2",
+    "question": "Which kind of rock is produced by deposition and cementation?",
+    "choices": [
+      "marble, a metamorphic rock",
+      "sandstone, a sedimentary rock",
+      "granite, an intrusive igneous rock",
+      "pumice, an extrusive igneous rock"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7139983",
+    "question": "What may form as a direct result of a star collapsing?",
+    "choices": [
+      "constellation",
+      "galaxy",
+      "protostar",
+      "supernova"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "NYSEDREGENTS_2006_4_18",
+    "question": "Which process causes the leaves of a plant to become larger?",
+    "choices": [
+      "repair",
+      "growth",
+      "decomposition",
+      "germination"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "MCAS_2007_8_5183",
+    "question": "Which of the following best describes the number of chromosomes in a normal human liver cell?",
+    "choices": [
+      "23 pairs of chromosomes",
+      "46 different types of chromosomes",
+      "46 male chromosomes and 46 female chromosomes",
+      "23 original chromosomes and 23 duplicate chromosomes"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7094063",
+    "question": "Which of these tectonic plate boundaries is most likely to form a volcano?",
+    "choices": [
+      "a continental plate colliding with a continental plate",
+      "an oceanic plate sliding past a continental plate",
+      "a continental plate sliding past a continental plate",
+      "an oceanic plate colliding into a continental plate"
+    ],
+    "gold": "D",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_400014",
+    "question": "Which trait does a puppy inherit from its parents?",
+    "choices": [
+      "fur color and pattern",
+      "obedience to commands",
+      "food brand preferences",
+      "affection for a specific home"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_7097300",
+    "question": "Brittany pedaled her bicycle quickly on a level surface. When she stopped pedaling and coasted, the bicycle slowed and came to a stop. What happened to the energy of the moving bicycle as it coasted to a stop?",
+    "choices": [
+      "It was transferred to heat due to friction.",
+      "It was reabsorbed into Brittany's muscles.",
+      "It was stored in the bicycle wheels as potential energy.",
+      "It was transferred to the air in the form of visible light."
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "Mercury_SC_413443",
+    "question": "Which units are best to measure the amount of rain that fell during a thunderstorm?",
+    "choices": [
+      "centimeters",
+      "degrees Celsius",
+      "grams",
+      "seconds"
+    ],
+    "gold": "A",
+    "split": "train"
+  },
+  {
+    "id": "TIMSS_2011_4_pg91",
+    "question": "Which of these animals has a young form that looks the most like the adult form?",
+    "choices": [
+      "moth",
+      "human",
+      "frog",
+      "butterfly"
+    ],
+    "gold": "B",
+    "split": "train"
+  },
+  {
+    "id": "MCAS_2005_5_7",
+    "question": "Which of the following animals goes through metamorphosis?",
+    "choices": [
+      "alligator",
+      "frog",
+      "lizard",
+      "turtle"
+    ],
+    "gold": "B",
+    "split": "train"
+  }
+]

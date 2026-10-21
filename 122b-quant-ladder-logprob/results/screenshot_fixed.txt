@@ -1,0 +1,7 @@
+Fresh confirmation: 4972 questions
+Format       Original %   Cyclic %    Text %
+BF16             39.42      79.93     40.35
+Q8_0             40.14      79.55     39.98
+Q4_K_M           48.93      77.90     36.69
+Q3_K_M           43.91      74.34     35.70
+Q2_K             24.92      38.94     30.75

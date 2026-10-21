@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "hypotheses_unchanged": true,
+  "confirmatory_sample_unchanged": true,
+  "sample_sha256": "7b306ba6607ea89ac04d9e28abc40e056896ede5d3cc9c6b0f3dd3207666f2c0",
+  "preregistration_commit": "e909540b9cb332e5a6e4077cefad59995810a86a 2026-10-19T21:52:00+00:00",
+  "sample_freeze_commit": "a8c729ce2ab835b7ab821533ae8bd3124556b60a 2026-10-19T21:55:41+00:00",
+  "sample_freeze_utc": "2026-10-19T21:55:41.524212+00:00"
+}

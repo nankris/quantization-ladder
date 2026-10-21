@@ -1,0 +1,18 @@
+{
+  "BF16": {
+    "retained_rows": 4972,
+    "canonical_sha256": "a6fcc4ea127736bf7c181214c48a700ef84fe2401ea08a5ba1d0e5a83bdd7d67"
+  },
+  "Q8_0": {
+    "retained_rows": 2753,
+    "canonical_sha256": "b01c8d83e55a906fe6cb81724309ee225c46adf312bf4a2c14a99f230ffd2761"
+  },
+  "Q3_K_M": {
+    "retained_rows": 1566,
+    "canonical_sha256": "4ef68ed3bbe61b3b876c4d4ad4505476d84e04a0f34d2874cd6dffec0e763230"
+  },
+  "Q2_K": {
+    "retained_rows": 4972,
+    "canonical_sha256": "699eadff0885b7a4889c4a24a0cf0403919174823e98a6a60aae696fc4d06874"
+  }
+}

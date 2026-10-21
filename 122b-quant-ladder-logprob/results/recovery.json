@@ -1,0 +1,14 @@
+{
+  "recovery_allocation_utc": "2026-10-19T22:51:30.759483+00:00",
+  "first_allocation_start_utc_approx": "2026-10-19T21:52:00+00:00",
+  "first_session_absent_observed_utc": "2026-10-19T22:51:00+00:00",
+  "first_session_stop_time_unknown": true,
+  "reason": "Service reports no active sessions; resume last local checkpoint without changing frozen sample. Cost upper bound charges first allocation through first absent observation.",
+  "retained_rows": {
+    "BF16": 4972,
+    "Q8_0": 2753,
+    "Q4_K_M": 0,
+    "Q3_K_M": 1566,
+    "Q2_K": 4972
+  }
+}

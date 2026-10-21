@@ -1,0 +1,14 @@
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.5/45.5 kB 5.0 MB/s eta 0:00:00
+Looking in indexes: https://abetlen.github.io/llama-cpp-python/whl/cu124
+Collecting llama-cpp-python==0.3.36
+  Downloading https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.36-cu124/llama_cpp_python-0.3.36-py3-none-manylinux_2_35_x86_64.whl (1776.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 GB 1.3 MB/s eta 0:00:00
+Installing collected packages: llama-cpp-python
+Successfully installed llama-cpp-python-0.3.36
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.5/45.5 kB 4.6 MB/s eta 0:00:00
+Looking in indexes: https://abetlen.github.io/llama-cpp-python/whl/cu124
+Collecting llama-cpp-python==0.3.36
+  Downloading https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.36-cu124/llama_cpp_python-0.3.36-py3-none-manylinux_2_35_x86_64.whl (1776.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 GB 1.5 MB/s eta 0:00:00
+Installing collected packages: llama-cpp-python
+Successfully installed llama-cpp-python-0.3.36

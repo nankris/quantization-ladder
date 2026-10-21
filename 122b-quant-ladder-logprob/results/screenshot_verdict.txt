@@ -1,0 +1,5 @@
+Overall verdict: DISPROVEN
+Q4 within 1 pp: DISPROVEN
+Q2 drops >= 5 pp: PROVEN
+Q4_K_M - BF16: -2.03 pp; paired 95% CI [-2.80, -1.25]
+Q2_K - BF16: -40.99 pp; paired 95% CI [-42.64, -39.36]

@@ -1,0 +1,2 @@
+2026-10-19T22:26:15.553355+00:00 {'status': 'running', 'phase': 'confirm', 'format': 'Q8_0', 'seconds': 1387.4249606132507} {'confirm_BF16': 4972, 'confirm_Q2_K': 4972, 'confirm_Q3_K_M': 1324, 'confirm_Q8_0': 2518}
+2026-10-19T22:27:11.651276+00:00 {'status': 'running', 'phase': 'confirm', 'format': 'Q8_0', 'seconds': 1387.4249606132507} {'confirm_BF16': 4972, 'confirm_Q2_K': 4972, 'confirm_Q3_K_M': 1566, 'confirm_Q8_0': 2753}

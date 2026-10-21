@@ -1,0 +1,6 @@
+Initial CLI readout, transcribed from pre-allocation terminal output:
+Current balance: 105.75 compute units
+Usage rate: 0.00/hr
+Active assignments: 0
+Daily floor read before allocation: 79.8
+No active sessions existed on first colab sessions check.

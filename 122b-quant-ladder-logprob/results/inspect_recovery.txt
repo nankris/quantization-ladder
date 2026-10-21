@@ -1,0 +1,37 @@
+   8429    8398       03:01 python3 /content/b10-122b/scripts/worker.py
+   8922    8398       01:17 /usr/bin/python3 /content/b10-122b/scripts/recovery_control.py --child
+   9098    8922       00:37 /usr/bin/python3 /content/b10-122b/scripts/auxiliary.py
+   9106    9098       00:36 /usr/bin/python3 scripts/evaluate.py Q3_K_M confirm
+   9110    8429       00:35 /usr/bin/python3 scripts/evaluate.py Q8_0 confirm
+   9266    8398       00:00 /bin/sh -c ps -eo pid,ppid,etime,args | grep -E '(8429|8922|pip install|scripts/prepare.py|scripts/evaluate.py)'
+   9268    9266       00:00 grep -E (8429|8922|pip install|scripts/prepare.py|scripts/evaluate.py)
+results/install.log mtime Mon Oct 19 22:53:16 2026 cted packages: llama-cpp-python
+Successfully installed llama-cpp-python-0.3.36
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.5/45.5 kB 4.6 MB/s eta 0:00:00
+Looking in indexes: https://abetlen.github.io/llama-cpp-python/whl/cu124
+Collecting llama-cpp-python==0.3.36
+  Downloading https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.36-cu124/llama_cpp_python-0.3.36-py3-none-manylinux_2_35_x86_64.whl (1776.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 GB 1.5 MB/s eta 0:00:00
+Installing collected packages: llama-cpp-python
+Successfully installed llama-cpp-python-0.3.36
+
+results/prepare.log mtime Mon Oct 19 22:54:02 2026  higher rate limits and faster downloads.
+
+Generating train split:   0%|          | 0/2251 [00:00<?, ? examples/s]
+Generating train split: 100%|██████████| 2251/2251 [00:00<00:00, 80518.68 examples/s]
+
+Generating test split:   0%|          | 0/2376 [00:00<?, ? examples/s]
+Generating test split: 100%|██████████| 2376/2376 [00:00<00:00, 429647.18 examples/s]
+
+Generating validation split:   0%|          | 0/570 [00:00<?, ? examples/s]
+Generating validation split: 100%|██████████| 570/570 [00:00<00:00, 202348.99 examples/s]
+verified BF16
+verified Q8_0
+verified Q4_K_M
+verified Q3_K_M
+verified Q2_K
+
+recovery_control.log mtime Mon Oct 19 22:54:06 2026 RECOVERY_AUX_PID 9098
+
+2.7G	/content/b10-122b/models
+1.7G	/root/.cache/pip

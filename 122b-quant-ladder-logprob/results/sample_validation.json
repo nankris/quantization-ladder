@@ -1,0 +1,16 @@
+{
+  "confirmatory_n": 4972,
+  "splits": {
+    "test": 2203,
+    "train": 2203,
+    "validation": 566
+  },
+  "gold": {
+    "D": 1163,
+    "B": 1260,
+    "A": 1242,
+    "C": 1307
+  },
+  "ID_and_question_overlap": 0,
+  "confirmatory_sha256": "7b306ba6607ea89ac04d9e28abc40e056896ede5d3cc9c6b0f3dd3207666f2c0"
+}

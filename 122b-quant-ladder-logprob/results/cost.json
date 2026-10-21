@@ -1,0 +1,15 @@
+{
+  "GPU": "NVIDIA L4",
+  "allocation_start_utc_approx": "2026-10-19T21:52:00+00:00",
+  "recovery_allocation_utc": "2026-10-19T22:51:30.759483+00:00",
+  "stopped_utc": "2026-10-19T23:23:42.542240+00:00",
+  "isolated_rate_CU_per_hour": 1.54,
+  "first_allocation_CU_upper_bound": 1.5143333333333333,
+  "recovery_CU_estimate": 0.8263737349388889,
+  "session_cu_estimate": 2.340707068272222,
+  "session_cu_estimate_uncertainty": 0.025666666666666667,
+  "account_balance_before": 105.75,
+  "account_balance_after": 101.73,
+  "account_balance_delta": 4.019999999999996,
+  "note": "Conservative duration-based upper estimate across two allocations. First VM release time unknown, charged through absent-session observation. Account balance delta can include unrelated concurrent work. Allocation timestamps have roughly one minute uncertainty."
+}
